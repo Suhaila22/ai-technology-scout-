@@ -1,1 +1,18 @@
+# AI Technology Intelligence Scout
 
+This Streamlit app helps users search and detect suitable technologies using technology scouting, horizon scanning, and investment evaluation.
+
+## Features
+
+- Search technology options
+- Match technologies with business needs
+- Score technology readiness
+- Evaluate lifecycle stage, TRL, risk, vendor stability, and pilot evidence
+- Show related references and external links
+- Recommend Explore, Pilot, Scale, or Avoid
+
+## How to Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
